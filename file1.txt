@@ -10,3 +10,4 @@ sample file1
 --
 5. fetch / pull
 --
+6. pushing this local work to git repo on website
