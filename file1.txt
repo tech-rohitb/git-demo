@@ -1,0 +1,12 @@
+sample file1
+
+1. work - code --- local machine - untracked
+--
+2. stage - changes track karo - tracked - git add [filename]
+--
+3. commit - message - git commit -m "message"
+--
+4. push - cloud - github - repo 
+--
+5. fetch / pull
+--
